@@ -3405,14 +3405,17 @@
   <Package name="HUD">
     <Key ID="STR_HUD_Food">
       <Original>Food</Original>
+      <German>Hunger</German>
       <Portuguese>Comida</Portuguese>
     </Key>
     <Key ID="STR_HUD_Health">
       <Original>Health</Original>
+      <German>Leben</German>
       <Portuguese>Vida</Portuguese>
     </Key>
     <Key ID="STR_HUD_Water">
       <Original>Water</Original>
+      <German>Durst</German>
       <Portuguese>Água</Portuguese>
     </Key>
   </Package>
